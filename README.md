@@ -4,3 +4,5 @@
 4. cd apps
 5. pnpx create-react-app app --template typescript
 6. pnpx create-react-app remote --template typescript
+# add craco for all apps
+7. pnpm add @craco/craco -D
